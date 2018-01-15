@@ -60,9 +60,9 @@
 				0880AA5F1FDE8A650011A80E /* FirstViewController.swift */,
 				0880AA611FDE8A650011A80E /* SecondViewController.swift */,
 				0880AA631FDE8A650011A80E /* Main.storyboard */,
-				0880AA661FDE8A650011A80E /* Assets.xcassets */,
 				0880AA681FDE8A650011A80E /* LaunchScreen.storyboard */,
 				0880AA6B1FDE8A650011A80E /* Info.plist */,
+				0880AA661FDE8A650011A80E /* Assets.xcassets */,
 			);
 			path = BuyList;
 			sourceTree = "<group>";
@@ -279,10 +279,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = HMHXD422GT;
+				DEVELOPMENT_TEAM = 7NXS8245BX;
 				INFOPLIST_FILE = BuyList/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.i.niko.BuyList;
+				PRODUCT_BUNDLE_IDENTIFIER = i.niko.BuyList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -294,10 +295,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = HMHXD422GT;
+				DEVELOPMENT_TEAM = 7NXS8245BX;
 				INFOPLIST_FILE = BuyList/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.i.niko.BuyList;
+				PRODUCT_BUNDLE_IDENTIFIER = i.niko.BuyList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

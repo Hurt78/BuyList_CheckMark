@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "4607226d3e7c9f688b7fba8982b45c84"
+build_time: [1514992140, 468136000]
+inputs:
+  "/Volumes/Rezerv/i/Desktop/Xcode/BuyList/BuyList/SecondViewController.swift": [1513072193, 0]
+  "/Volumes/Rezerv/i/Desktop/Xcode/BuyList/BuyList/AppDelegate.swift": [1512985317, 0]
+  "/Volumes/Rezerv/i/Desktop/Xcode/BuyList/BuyList/FirstViewController.swift": [1513025201, 0]
