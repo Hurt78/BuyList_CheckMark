@@ -111,16 +111,17 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pUN-Iu-t3f">
-                                                    <rect key="frame" x="16" y="11.5" width="310" height="21.5"/>
+                                                    <rect key="frame" x="23" y="11.5" width="313" height="21.5"/>
                                                     <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldItalicMT" family="Times New Roman" pointSize="19"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
                                             <constraints>
-                                                <constraint firstItem="pUN-Iu-t3f" firstAttribute="centerY" secondItem="yai-mb-SQU" secondAttribute="centerY" id="3Ix-PS-Gnw"/>
-                                                <constraint firstItem="pUN-Iu-t3f" firstAttribute="leading" secondItem="yai-mb-SQU" secondAttribute="leadingMargin" constant="1" id="3qx-te-C6E"/>
-                                                <constraint firstAttribute="trailingMargin" secondItem="pUN-Iu-t3f" secondAttribute="trailing" constant="2" id="VdO-Et-Rn6"/>
+                                                <constraint firstItem="pUN-Iu-t3f" firstAttribute="bottom" secondItem="yai-mb-SQU" secondAttribute="bottomMargin" id="5kC-aA-QUt"/>
+                                                <constraint firstItem="pUN-Iu-t3f" firstAttribute="leading" secondItem="yai-mb-SQU" secondAttribute="leadingMargin" constant="8" id="BXb-Bu-ECs"/>
+                                                <constraint firstItem="pUN-Iu-t3f" firstAttribute="top" secondItem="yai-mb-SQU" secondAttribute="topMargin" id="R11-fp-Ym1"/>
+                                                <constraint firstAttribute="trailingMargin" secondItem="pUN-Iu-t3f" secondAttribute="trailing" constant="-8" id="eK2-66-EEc"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
