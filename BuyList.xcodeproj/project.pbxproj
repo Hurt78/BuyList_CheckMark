@@ -13,6 +13,7 @@
 		0880AA651FDE8A650011A80E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0880AA631FDE8A650011A80E /* Main.storyboard */; };
 		0880AA671FDE8A650011A80E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0880AA661FDE8A650011A80E /* Assets.xcassets */; };
 		0880AA6A1FDE8A650011A80E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0880AA681FDE8A650011A80E /* LaunchScreen.storyboard */; };
+		08B13B8A200DEAB100C2A3CA /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B13B89200DEAB100C2A3CA /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0880AA661FDE8A650011A80E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0880AA691FDE8A650011A80E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0880AA6B1FDE8A650011A80E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08B13B89200DEAB100C2A3CA /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0880AA5D1FDE8A650011A80E /* AppDelegate.swift */,
 				0880AA5F1FDE8A650011A80E /* FirstViewController.swift */,
 				0880AA611FDE8A650011A80E /* SecondViewController.swift */,
+				08B13B89200DEAB100C2A3CA /* TableViewCell.swift */,
 				0880AA631FDE8A650011A80E /* Main.storyboard */,
 				0880AA681FDE8A650011A80E /* LaunchScreen.storyboard */,
 				0880AA6B1FDE8A650011A80E /* Info.plist */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0880AA621FDE8A650011A80E /* SecondViewController.swift in Sources */,
+				08B13B8A200DEAB100C2A3CA /* TableViewCell.swift in Sources */,
 				0880AA5E1FDE8A650011A80E /* AppDelegate.swift in Sources */,
 				0880AA601FDE8A650011A80E /* FirstViewController.swift in Sources */,
 			);
